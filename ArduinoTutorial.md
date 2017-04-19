@@ -53,9 +53,9 @@ Located in the GC Digital Scholarship Lab, Room 7414. Monday Maker Hours, worksh
 
 7. [Activity: Add a Button!](https://github.com/mckinniburgh/gc-phys-comp/blob/master/IntroPhysCompArduino.md#activity-add-a-button)
 
-##Why Make?
+## Why Make?
 
-###Key term: **Maker Space**
+### Key term: **Maker Space**
 
 Definition: 
 
@@ -77,16 +77,16 @@ Antecedents to the university maker space:
 
 [“hacking”](https://en.wikipedia.org/wiki/Hacker_culture): in a positive sense, alters technologies for creative uses and greater accessibility. This led to early hackerspaces incorporating circuitry, microcomputing platforms, and other hardware.
 
-####The process, rather than the product, defines the space.
+#### The process, rather than the product, defines the space.
 
-###Key term: **Critical Making**
+### Key term: **Critical Making**
 
 Research that uses the act of 'making' (as in maker spaces) to critically reflect on the materials, social implications, and cultural factors implicit in the process of building digital projects.
 
 [Examples of critical making projects from University of California Berkeley](http://make.berkeley.edu/spring-2016/)
 
 
-###Key term: **Physical Computing**
+### Key term: **Physical Computing**
 
 Definition:
 
@@ -108,7 +108,7 @@ Examples:
 
 -[More Examples from Tom Igoe's "Physical Computing's Greatest Hits (and misses)"](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 
-##Basic Vocabulary
+## Basic Vocabulary
 
 + *Arduino:* consists of a microcontroller (or programmable circuit board) that comes with software (an IDE) that allows you to write code and upload it to the board. Arduino is an [open source project.](https://www.arduino.cc/en/Guide/Introduction)
 
@@ -134,7 +134,7 @@ Examples:
 
      -Example: a servo, or moving part--also an LED!
 	
-##Setting up Arduino
+## Setting up Arduino
 
 * Take your Arduino and plug in the USB cable to both the Arduino and your computer.
 
@@ -161,7 +161,7 @@ Choose `/dev/cu.usbmodem1411 (Arduino/Genuino Uno)`
 
 Now you're ready to make circuits! 
 
-#Activity: Arduino toneMelody
+# Activity: Arduino toneMelody
 
 **Supplies**
 
@@ -170,7 +170,7 @@ Now you're ready to make circuits!
 + 1 piezo buzzer
 + Breadboard
 
-##The Circuit
+## The Circuit
 
 ![Piezo Buzzer](https://github.com/mckinniburgh/gc-phys-comp/blob/master/Images/PiezoDiagram_bb.png)
 
@@ -178,7 +178,7 @@ Now you're ready to make circuits!
 
 Don't forget to unplug your Arduino as you wire your circuit! This keeps your computer safe. 
 
-##The Code
+## The Code
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
 
@@ -201,7 +201,7 @@ Final steps:
     
 5. **Upload** your sketch and listen to your song!
 
-#Activity: Arduino LED
+# Activity: Arduino LED
 
 **Supplies**
 
@@ -211,7 +211,7 @@ Final steps:
 + Breadboard
 + Resistor
 
-##The Circuit
+## The Circuit
 
 ![Circuit Diagram](https://github.com/mckinniburgh/gc-phys-comp/blob/master/Images/BasicLED_bb.png)
 
@@ -227,7 +227,7 @@ Next, connect another wire to the *cathode* (short side) of the LED, and place t
 
 Especially if you're still getting used to using a breadboard, this overview is very helpful:[https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 
-##The Code
+## The Code
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
 
@@ -244,9 +244,9 @@ Arduino has ready-to-go code, which we'll use to get started today. You can open
     
 6. **Upload** your sketch and watch the LED blink!
 
-####Bonus points: change the speed of the LED blinking by adjusting the delay value.     
+#### Bonus points: change the speed of the LED blinking by adjusting the delay value.     
 
-#LED Bonus Round: Using Resistors
+# LED Bonus Round: Using Resistors
 
 Resistors modulate the flow of electricity through a circuit by "resisting" the current, measured in ohms. 
 
@@ -254,7 +254,7 @@ Experiment with rewiring the circuit *without* the resistor and notice what happ
 
 You have another type of resistor in your supply bag--give this one a shot and see how it affects your circuit. 
 
-#Activity: Add a Button!
+# Activity: Add a Button!
 
 Now that we're more familiar with basic wiring, we'll add a button to our circuit so we can turn an LED (or piezo) on and off. 
 
@@ -267,7 +267,7 @@ Now that we're more familiar with basic wiring, we'll add a button to our circui
 + Breadboard
 + Resistor
 
-##The Circuit
+## The Circuit
 
 This is a fancier one! We're going to hook up the power rails on the breadboard through the ground and 5V pins so anything that we wire to those rails can be powered. We're also going to hook up both sides of the breadboard for the button that spans them. 
 
@@ -275,7 +275,7 @@ This is a fancier one! We're going to hook up the power rails on the breadboard 
 
 *This circuit was made using [Fritzing](http://fritzing.org/home/)*
 
-##The Code
+## The Code
 
 1. Go to `File --> Examples --> 02.Digital --> Button`
 
@@ -288,7 +288,7 @@ This is a fancier one! We're going to hook up the power rails on the breadboard 
     
 5. **Upload** your sketch, and press the button to turn the LED on and off. 
 
-#Activity: A Pseudo-Theremin!
+# Activity: A Pseudo-Theremin!
 
 For this activity, we'll be following the tutorial on Adafruit's website: [https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
 
@@ -301,9 +301,9 @@ For this activity, we'll be following the tutorial on Adafruit's website: [https
 + Breadboard
 + Resistor
 
-#Quick recap:
+# Quick recap:
 
-##Revisiting Workshop Goals:
+## Revisiting Workshop Goals:
 
 **In this workshop, we:**
 
@@ -317,10 +317,6 @@ For this activity, we'll be following the tutorial on Adafruit's website: [https
 
 * ...and considered further possibilities for physical computing-style projects. 
 
-#To keep on learning...
+# To keep on learning...
 
-Join us at [Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/) at the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/), located in the [GC Digital Scholarship Lab](https://gcdsl.commons.gc.cuny.edu/), Room 7414 at The Graduate Center, CUNY. We have Arduinos, a variety of sensors, LEDs, piezos, and other physical computing equipment for experimenting and project prototyping. All levels and perspectives welcome! [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSeLwRoCkz5NPPLh0vYMOQPqyA5H3fbWn5ga2-F8M-pQvrg5IA/viewform?c=0&w=1) for more information. 
-
-#One more thing: we want your feedback!
-
-##Please fill out our feedback form [here](https://docs.google.com/forms/d/e/1FAIpQLSfNW2FJXd236V3zCtJXHLiJrKETEXqVms-qTxHaYN_h8GCA_A/viewform). Thank you for coming to our workshop!
+Join us at [Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/) at the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/), located in the [GC Digital Scholarship Lab](https://gcdsl.commons.gc.cuny.edu/), Room 7414 at The Graduate Center, CUNY. We have Arduinos, a variety of sensors, LEDs, piezos, and other physical computing equipment for experimenting and project prototyping. All levels and perspectives welcome! [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSeLwRoCkz5NPPLh0vYMOQPqyA5H3fbWn5ga2-F8M-pQvrg5IA/viewform?c=0&w=1) for more information.
