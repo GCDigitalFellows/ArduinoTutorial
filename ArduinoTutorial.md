@@ -178,6 +178,12 @@ Now you're ready to make circuits!
 
 Don't forget to unplug your Arduino as you wire your circuit! This keeps your computer safe. 
 
+### An important note on reading circuit diagrams
+
+These diagrams can be tricky to read at first. For the diagram above, you'll notice a big circle, which is our piezo buzzer. When you look at your piezo buzzer, you'll see it has two tiny legs sticking out beneath it. Since these diagrams are two-dimensional, they show the legs sticking out to the *side* of the buzzer. So as you wire your circuit, you'll place the two piezo buzzer legs vertically on the breadboard, and the piezo buzzer will appear right over top of it. 
+
+The color of the wires right now just differentiates that you need two different wires, so whichever color wire you'd like to use in your circuit is up to you. 
+
 ## The Code
 
 Arduino has ready-to-go code, which we'll use to get started today. You can open their examples and then edit the code as you like. 
@@ -216,6 +222,13 @@ Final steps:
 ![Circuit Diagram](https://github.com/mckinniburgh/gc-phys-comp/blob/master/Images/BasicLED_bb.png)
 
 *This circuit was made using [Fritzing](http://fritzing.org/home/)*
+
+#### A note on reading the circuit diagram
+
+You'll notice that the LED light is depicted sideways, like the piezo buzzer in the first diagram. In the drawing, one side of the LED has a bend in it--this corresponds with the shorter leg of your LED, or the *cathode* side.
+
+### Wiring the Circuit
+
 
 You'll take a wire from your *ground*, or the 5V slot on the Arduino board, to the (-) power rail of the breadboard. 
 
@@ -290,7 +303,9 @@ This is a fancier one! We're going to hook up the power rails on the breadboard 
 
 # Activity: A Pseudo-Theremin!
 
-For this activity, we'll be following the tutorial on Adafruit's website: [https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
+There is a wide and wonderful world of Arduino tutorials out there, particularly as your projects develop in complexity. For this activity, let's pop over to [Adafruit](https://learn.adafruit.com/), which has a lively array of tutorials. A particular favorite is the "pseudo-theremin," which lets you make music by shifting the pitch of a piezo buzzer, depending on how much light a nearby sensor receives.
+
+The tutorial is located here: [https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin)
 
 **Supplies**
 
@@ -305,7 +320,7 @@ For this activity, we'll be following the tutorial on Adafruit's website: [https
 
 As you've made your way through each of these activities, you may have noticed that Arduino has a lot of built-in code (in the **File** --> **Examples** tab). Usually a quick Google search of the name of the example code will let you find a diagram of the wiring that goes with it. The [Arduino Website](https://www.arduino.cc/en/Tutorial/HomePage) is a great place to get started. 
 
-Other useful resources include [AdaFruit](https://learn.adafruit.com/lesson-0-getting-started/overview), where you can also purchase your own Arduino and equipment if you like, and [Make Magazine](http://makezine.com/category/technology/arduino/) which has lots of tutorials and ideas for projects in general.
+Other useful resources include [Adafruit](https://learn.adafruit.com/lesson-0-getting-started/overview), like we used for the pseudo-theremin tutorial, and where you can also purchase your own Arduino and equipment if you like. [Make Magazine](http://makezine.com/category/technology/arduino/) also has lots of tutorials and ideas for projects in general.
 
 # To keep on learning...
 
