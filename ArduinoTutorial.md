@@ -178,7 +178,7 @@ Now you're ready to make circuits!
 
 Don't forget to unplug your Arduino as you wire your circuit! This keeps your computer safe. 
 
-### An important note on reading circuit diagrams
+### A note on reading circuit diagrams
 
 These diagrams can be tricky to read at first. For the diagram above, you'll notice a big circle, which is our piezo buzzer. When you look at your piezo buzzer, you'll see it has two tiny legs sticking out beneath it. Since these diagrams are two-dimensional, they show the legs sticking out to the *side* of the buzzer. So as you wire your circuit, you'll place the two piezo buzzer legs vertically on the breadboard, and the piezo buzzer will appear right over top of it. 
 
