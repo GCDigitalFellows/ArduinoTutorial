@@ -301,21 +301,11 @@ For this activity, we'll be following the tutorial on Adafruit's website: [https
 + Breadboard
 + Resistor
 
-# Quick recap:
+# What's next?
 
-## Revisiting Workshop Goals:
+As you've made your way through each of these activities, you may have noticed that Arduino has a lot of built-in code (in the **File*** --> **Examples** tab). Usually a quick Google search of the name of the example code will let you find a diagram of the wiring that goes with it. The [Arduino Website](https://www.arduino.cc/en/Tutorial/HomePage) is a great place to get started. 
 
-**In this workshop, we:**
-
-* Learned about maker spaces, critical making, and physical computing practices in higher education and beyond
-
-* Became familiar with Arduino's vocabulary and basic setup
-
-* Built a basic circuit and ran a basic program on the Arduino
-
-* Added complexity to our circuits to prepare for accommodating more types of sensors and actuators
-
-* ...and considered further possibilities for physical computing-style projects. 
+Other useful resources include [AdaFruit](https://learn.adafruit.com/lesson-0-getting-started/overview), where you can also purchase your own Arduino and equipment if you like, and [Make Magazine](http://makezine.com/category/technology/arduino/) which has lots of tutorials and ideas for projects in general.
 
 # To keep on learning...
 
