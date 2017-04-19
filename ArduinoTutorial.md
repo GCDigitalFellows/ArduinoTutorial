@@ -1,6 +1,6 @@
 # Arduino Tutorial: Things to do in a Maker Space
 
-Created by Mary Catherine Kinniburgh for the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/)
+Created by Mary Catherine Kinniburgh for the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/).
 
 * Prior versions of this tutorial appear in [A Super-Speedy Intro to Maker Basics with Arduino](https://github.com/mckinniburgh/QuickStartPhysComp), a tutorial designed for #dhpraxis2016, and [Introduction to Physical Computing with Arduino](https://github.com/mckinniburgh/gc-phys-comp/blob/master/IntroPhysCompArduino.md) workshops at The Graduate Center, CUNY, and for NYCDH Week 2017.
 
