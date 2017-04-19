@@ -1,22 +1,14 @@
-#Introduction to Physical Computing with Arduino
+# Arduino Tutorial: Things to do in a Maker Space
 
-developed for:
+Created by Mary Catherine Kinniburgh for the [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/)
 
-##[Introduction to Physical Computing with Arduino Workshop](https://gcdi.commons.gc.cuny.edu/workshops/)
-
-##quick link: http://tinyurl.com/gc-arduino
-
-November 9th, 6:30-8:30pm
-
-Instructors: Mary Catherine Kinniburgh + Jojo Karlin!
-
-* Adapted from [A Super-Speedy Intro to Maker Basics with Arduino](https://github.com/mckinniburgh/QuickStartPhysComp), a tutorial designed for #dhpraxis2016.
+* Prior versions of this tutorial appear in [A Super-Speedy Intro to Maker Basics with Arduino](https://github.com/mckinniburgh/QuickStartPhysComp), a tutorial designed for #dhpraxis2016, and [Introduction to Physical Computing with Arduino](https://github.com/mckinniburgh/gc-phys-comp/blob/master/IntroPhysCompArduino.md) workshops at The Graduate Center, CUNY, and for NYCDH Week 2017.
 
 * Thanks to Tiffany Chan for her inspiring and helpful [Arduino Tutorial](https://github.com/uvicmakerlab/dhsi2016/blob/master/ArduinoNotes.md) for [Digital Humanities Summer Institute 2016](http://www.dhsi.org/index.php), in Jentery Sayers' Physical Computing and Desktop Fabrication Class. 
 
-#Workshop Goals
+# Tutorial Roadmap
 
-**In this workshop, we will:**
+**In this tutorial, you'll:**
 
 * Learn about maker spaces, critical making, and physical computing practices in higher education and beyond
 
@@ -28,17 +20,17 @@ Instructors: Mary Catherine Kinniburgh + Jojo Karlin!
 
 * ...and conceive of further possibilities for physical computing-style projects. 
 
-##GC Resources at a glance:
+## GC Resources at a glance:
 
-####[Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/)
+#### [Monday Maker Hours](https://gcdi.commons.gc.cuny.edu/monday-maker-hours/)
 
-Alternating Mondays, 2:00-4:00pm in Room 7414. Open lab time for experimenting, projects, prototyping, saying hello!
+Alternating Mondays, 4:00-6:00pm in Room 7414. Open lab time for experimenting, projects, prototyping, saying hello!
 
-####[GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/)
+#### [GC Maker Space](https://gcdi.commons.gc.cuny.edu/gc-maker-space/)
 
 Located in the GC Digital Scholarship Lab, Room 7414. Monday Maker Hours, workshops, and consults for all levels and disciplines.
 
-#Overview
+# Overview
 
 1. [Why Make?](https://github.com/mckinniburgh/gc-phys-comp/blob/master/IntroPhysCompArduino.md#why-make)
 
